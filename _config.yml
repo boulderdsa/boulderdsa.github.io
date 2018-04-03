@@ -56,3 +56,31 @@ defaults:
     values:
       layout: default
       title_prefix: "Working Group: "
+
+
+# Site data
+navlinks:
+- title: About Us
+  url: /about/
+- title: News
+  url: /news/
+- title: Resources
+  url: /resources/
+- title: Calendar
+  url: /calendar/
+- title: CU YDSA
+  url: /ydsa/
+- title: Contact Us
+  url: /contact/
+
+socialmedia:
+- name: facebook
+  url: https://www.facebook.com/boulderdsa/
+- name: twitter
+  url: https://twitter.com/boulderDSA
+- name: instagram
+  url: #
+- name: mastodon
+  url: "#"
+- name: diaspora
+  url: "#"
