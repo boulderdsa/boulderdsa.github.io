@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-{%- if page.exerpt -%}
+{%- if page.excerpt -%}
   <meta name="description" content="{{ page.exerpt | strip_html | truncate: 320 }}">
 {%- endif -%}
   <title>{{ page.titleprefix }}{{ page.title }}</title>
@@ -41,7 +41,7 @@
           {%- comment -%} Jekyll doesn't allow (), but associates logic from r to l.
                           Also, boolean algebra apparently doesn't work in assign
                           statements.{%- endcomment -%}
-          {%- if item.url == page.url or page.layout == "news" and item.url == "/news/" -%}
+          {%- if item.url == page.url or page.layout == "newspost" and item.url == "/news/" -%}
             {%- assign active = true -%}
           {%- else -%}
             {%- assign active = false -%}

@@ -1,7 +1,8 @@
 ---
+layout: postlist
 ---
 # News
 
-{% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }})
-{% endfor %}
+{%- comment -%}
+Only non-post-list content here.  A list of all posts and exerpts from them will follow.
+{%- endcomment -%}

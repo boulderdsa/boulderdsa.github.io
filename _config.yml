@@ -48,7 +48,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: news
+      layout: newspost
       category: news
   - scope:
       path: ""
