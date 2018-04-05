@@ -5,7 +5,7 @@ tags: history union
 
 The Ludlow Massacre was an attack by the Colorado National Guard and Colorado Fuel & Iron Company camp guards on a tent colony of 1,200 striking coal miners and their families at Ludlow, Colorado, on April 20, 1914. About two dozen people, including miners' wives and children, were killed. The chief owner of the mine, John D. Rockefeller, Jr., was widely criticized for the incident.
 
-![Ruins of Ludlow](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ruins_of_Ludlow_restored.jpg/1920px-Ruins_of_Ludlow_restored.jpg)
+![Ruins of Ludlow](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ruins_of_Ludlow_restored.jpg/1920px-Ruins_of_Ludlow_restored.jpg){:.img-responsive}
 
 The massacre, the seminal event in the Colorado Coalfield War, resulted in the violent deaths of between 19 and 26 people; reported death tolls vary but include two women and eleven children, asphyxiated and burned to death under a single tent. The deaths occurred after a daylong fight between militia and camp guards against striking workers. Ludlow was the deadliest single incident in the southern Colorado Coal Strike, which lasted from September 1913 through December 1914. The strike was organized by the United Mine Workers of America against coal mining companies in Colorado. The three largest companies involved were the Rockefeller family-owned Colorado Fuel & Iron Company, the Rocky Mountain Fuel Company, and the Victor-American Fuel Company.
 
