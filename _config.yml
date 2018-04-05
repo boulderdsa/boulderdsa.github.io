@@ -46,6 +46,12 @@ defaults:
       layout: null
   - scope:
       path: ""
+      type: posts
+    values:
+      layout: news
+      category: news
+  - scope:
+      path: ""
       type: pages
     values:
       layout: default
