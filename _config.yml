@@ -34,10 +34,6 @@ exclude:
 sass:
 #    style: :compressed
 
-collections:
-  groups:
-    output: true
-    permalink: /:collection/:name/
 
 defaults:
   - scope:
@@ -56,12 +52,6 @@ defaults:
     values:
       layout: default
       title_prefix: ""
-  - scope:
-      path: ""
-      type: groups
-    values:
-      layout: default
-      title_prefix: "Working Group: "
 
 
 # Site data
