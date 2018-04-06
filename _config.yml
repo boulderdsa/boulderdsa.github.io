@@ -23,6 +23,10 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://boulderdsa.org" # the base hostname & protocol for your site, e.g. http://example.com
 author: Boulder DSA
+twitter:
+    username: boulderDSA
+facebook:
+    publisher: https://www.facebook.com/boulderdsa/
 
 # Build settings
 markdown: kramdown
@@ -38,6 +42,8 @@ sass:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 defaults:
   - scope:
@@ -81,6 +87,6 @@ socialmedia:
 - name: instagram
   url: #
 - name: mastodon
-  url: "#"
+  url: https://soc.ialis.me/@BoulderDSA
 - name: diaspora
   url: "#"
