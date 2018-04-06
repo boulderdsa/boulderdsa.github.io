@@ -47,8 +47,7 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <!--<li class="active"><a href="#">About <span class="sr-only">(current)</span></a></li>-->
-        {%- for item in site.navlinks -%}
+        {% for item in site.navlinks -%}
           {%- comment -%} Jekyll doesn't allow (), but associates logic from r to l.
                           Also, boolean algebra apparently doesn't work in assign
                           statements.{%- endcomment -%}
@@ -56,11 +55,11 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
             {%- assign active = true -%}
           {%- else -%}
             {%- assign active = false -%}
-          {%- endif -%}
+          {%- endif %}
           <li{% if active %} class="active"{% endif %}>
             <a href="{{ item.url }}">{{ item.title }}{% if active %}<span class="sr-only"> (current)</span>{% endif %}</a>
           </li>
-        {%- endfor -%}
+        {%- endfor %}
       </ul>
       <!-- Social media icons on rhs of navbar?
       <ul class="nav navbar-nav navbar-right">
@@ -86,11 +85,11 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
   <div class="col-md-4">&copy; 2018 Boulder DSA</div>
   <div class="col-md-4 text-center"><a href="/contact/"><button class="btn btn-primary btn-sx">Join Us!</button></a></div>
   <div class="col-md-4 text-right"><ul class="list-inline">
-  {%- for site in site.socialmedia -%}
+  {% for site in site.socialmedia %}
   <li><a href="{{ site.url }}">
     <img src="/images/socialmedia/{{site.name}}.png" srcset="/images/socialmedia/{{site.name}}@2x.png 2x"
         alt="{{site.name | capitalize}}"></a></li>
-  {%- endfor -%}
+  {%- endfor %}
   </ul></div>
   </div>
 </footer>
