@@ -1,7 +1,6 @@
 ---
+title: Join the Boulder DSA
 ---
-# Join the Boulder DSA
-
 Information about our meetings, email, slack, etc, and how to join.
 
 Nothing to see here… yet.

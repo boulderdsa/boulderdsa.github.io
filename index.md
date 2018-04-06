@@ -1,6 +1,6 @@
 ---
+title: Boulder DSA
 ---
-# Boulder DSA
 
 <div markdown="1" class="row">
 <div markdown="1" class="col-md-10 col-md-offset-1">

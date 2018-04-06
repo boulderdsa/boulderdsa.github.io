@@ -1,6 +1,6 @@
 ---
+title: About
 ---
-# About
 
 Boulder DSA is a local chapter of [Democratic Socialists of America](http://www.dsausa.org), the largest socialist organization in the US. We are a “big tent” organization: our members come from many backgrounds with many points of view, but we all agree on one thing—unchecked capitalism has created a society that puts corporate profit above human rights, and we are committed to changing that through direct, grassroots action.
 
