@@ -1,5 +1,6 @@
 ---
 title: Striking Miners Massacred in Ludlow
+author: Wikipedia
 tags: history union
 ---
 

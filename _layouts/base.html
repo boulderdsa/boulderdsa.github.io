@@ -10,6 +10,7 @@
   <meta name="description" content="{{ page.exerpt | strip_html | truncate: 320 }}">
 {%- endif -%}
   <title>{{ page.titleprefix }}{{ page.title }}</title>
+  {% feed_meta %}
 
   <link href="/css/main.css" rel="stylesheet">
 

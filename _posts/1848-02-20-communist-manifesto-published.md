@@ -1,5 +1,6 @@
 ---
 title: Publication of The Communist Manifesto
+author: Wikipedia
 tags: politics
 ---
 
