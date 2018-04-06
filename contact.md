@@ -1,9 +1,9 @@
 ---
 title: Join the Boulder DSA
 ---
-Information about our meetings, email, slack, etc, and how to join.
+_[An incomplete outline of what may someday go here.  Please, help fill it in!]_
 
-Nothing to see here… yet.
+Information about our meetings, email, slack, etc, and how to join.
 
 * Working group email contacts
     * [Housing Justice][email-housing]
@@ -22,4 +22,4 @@ Nothing to see here… yet.
 [email-m4a]: mailto:boulderdsa.m4a@gmail.com
 [email-outreach]: mailto:boulderdsa.outreach@gmail.com
 [email-ydsa]: mailto:ydsa@colorado.edu
-[email-slack]: mailto:boulderdsa@gmail.com?subject=Add%20me%20to%20Slack&body=Hi%2C%20my%20name%20is%20___%2C%20and%20I%27d%20like%20to%20be%20added%20to%20the%20Boulder%20DSA%20Slack%20because%20___.
+[email-slack]: mailto:boulderdsa@gmail.com?subject={{ "Add me to Slack" | uri_escape}}&body={{ "Hi, my name is ___ and I'd like to be added to the Boulder DSA's Slack because ___." | uri_escape}}
