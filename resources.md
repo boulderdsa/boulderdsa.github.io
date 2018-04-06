@@ -1,6 +1,6 @@
 ---
+title: Resources
 ---
-# Resources
 
 _[An incomplete outline of what may someday go here.  Please, help fill it in!]_
 
