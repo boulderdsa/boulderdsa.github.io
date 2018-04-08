@@ -85,8 +85,8 @@ socialmedia:
 - name: twitter
   url: https://twitter.com/boulderDSA
 - name: instagram
-  url: #
+  url: "#"
 - name: mastodon
   url: https://soc.ialis.me/@BoulderDSA
 - name: diaspora
-  url: "#"
+  url: https://diaspora.town/people/c63a0750139a0136f3aa001c4202e28a
