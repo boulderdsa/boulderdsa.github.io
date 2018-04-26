@@ -68,8 +68,8 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
 <div class="container"> <!-- main content -->
 
 <div class="row">
-  <div class="col-md-12">
-    <h1>{{ page.title }}</h1>
+  <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+    <h1 class=text-center>{{ page.title }}</h1>
     {{ content }}
   </div>
 </div>
@@ -77,8 +77,8 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
 <hr>
 <footer class="footer">
   <div class="row">
-  <div class="col-md-4">&copy; 2018 Boulder DSA</div>
-  <div class="col-md-4 text-center"><a href="/contact/"><button class="btn btn-primary btn-sx">Join Us!</button></a></div>
+  <div class="col-md-4 col-lg-offset-1">&copy; 2018 Boulder DSA</div>
+  <div class="col-md-4 col-lg-2 text-center"><a href="/contact/"><button class="btn btn-primary btn-lg">Join Us!</button></a></div>
   <div class="col-md-4 text-right"><ul class="list-inline">
   {% for site in site.socialmedia %}
   <li><a href="{{ site.url }}">
@@ -88,6 +88,7 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
   </ul></div>
   </div>
 </footer>
+<p />
 
 </div> <!-- end main content -->
 
