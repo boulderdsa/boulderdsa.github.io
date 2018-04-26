@@ -3,3 +3,8 @@
 
 @import "bdsa-variables";
 @import "bootstrap";
+
+.bg-black {
+  background: $gray-base;
+  color: #fff;
+}

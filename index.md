@@ -5,7 +5,12 @@ title: Boulder DSA
 ![Boulder DSA marching on Pearl Street](/images/DSA_march.png){:.img-responsive .center-block width="100%"}
 
 <div markdown="1" class="row">
-<div markdown="1" class="col-md-10 col-md-offset-1">
+<div markdown="1" class="col-md-10 col-md-offset-1 bg-black">
+
+Boulder Democratic Socialists of America is an activist organization which seeks to democratize not only our government but also our economy, our workplaces, and our society.
+
+</div>
+<div markdown="1" class="col-md-12">
 
 > A call to action:
 >

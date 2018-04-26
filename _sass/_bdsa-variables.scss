@@ -398,7 +398,7 @@ $brand-primary:         #EC1F27; // DSA Red //Was: darken(#428bca, 6.5%); // #33
 // Reset inverted navbar basics
 // $navbar-inverse-color:                      lighten($gray-light, 15%);
 $navbar-inverse-bg:                         $brand-primary;
-// $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%);
+$navbar-inverse-border:                     $gray-base;
 
 // Inverted navbar links
 $navbar-inverse-link-color:                 white;
