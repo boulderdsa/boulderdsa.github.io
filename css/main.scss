@@ -8,3 +8,9 @@
   background: $gray-base;
   color: #fff;
 }
+
+.scroll {
+  border: 30px double black;
+  margin: 10px 0px;
+  border-image: url('/images/scroll.png') 49% repeat;
+}
