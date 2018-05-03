@@ -1,6 +1,8 @@
 ---
 title: Solidarity Forever
-permalink: /Solidarity/
+redirect_from:
+  - /Solidarity/
+  - /solidarity/
 author: Ralph Chaplin
 ---
 

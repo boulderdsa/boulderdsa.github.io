@@ -1,6 +1,8 @@
 ---
 title: The Internationale
-permalink: /Internationale/
+redirect_from:
+  - /Internationale/
+  - /internationale/
 author: Billy Bragg
 ---
 

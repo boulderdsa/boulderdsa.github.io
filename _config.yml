@@ -36,6 +36,8 @@ permalink: pretty
 exclude:
     - CNAME
     - README.md
+    - Gemfile
+    - Gemfile.lock
 
 sass:
 #    style: :compressed
@@ -44,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 defaults:
   - scope:
