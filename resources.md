@@ -4,7 +4,7 @@ title: Resources
 
 * Chapter information _[Will be filled in after the elections]_:
 	* Leadership
-	* Bylaws
+	* [Bylaws]({% link resources/bylaws.md %})
 	* A “meet the team” video from officers
 
 If you're attending one of our meetings, you should be aware of our [expectations for respectful discussion]({% link resources/discussion.md %}) and our [anti-harassment guidelines]({% link resources/harassment.md %}). (Also, see the [national resolution](https://docs.google.com/document/d/14PXU8_0eKmPG_8GSVVyHurorNcNPOQN_mq-mAdCOUao/edit) on harassment grievances.)
