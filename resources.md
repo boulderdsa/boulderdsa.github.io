@@ -2,12 +2,8 @@
 title: Resources
 ---
 
-* Chapter information _[Will be filled in after the elections]_:
-	* Leadership
-	* [Bylaws]({% link resources/bylaws.md %})
-	* A “meet the team” video from officers
-
 If you're attending one of our meetings, you should be aware of our [expectations for respectful discussion]({% link resources/discussion.md %}) and our [anti-harassment guidelines]({% link resources/harassment.md %}). (Also, see the [national resolution](https://docs.google.com/document/d/14PXU8_0eKmPG_8GSVVyHurorNcNPOQN_mq-mAdCOUao/edit) on harassment grievances.)
+
 
 Some external resources we suggest you check out:
 
@@ -16,5 +12,13 @@ Some external resources we suggest you check out:
 * Want an introduction to what socialism is all about? Check out [The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf).
 * For more leftist news and discussion, try reading [Jacobin magazine](https://www.jacobinmag.com/).
 
+As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
+
+* Co-Chairs: Meagan Arango and Austin Bennett
+* Communications Facilitator: Felicia Hamilton
+* Treasurer: Sam Zhang
+* Organizers: A.J. Nichols, Ruy Arango, and Jon Lamar
 
 _[Links TBD for Housing and M4All working groups.]_
+
+[email-officers]: mailto:boulderdsa@gmail.com
