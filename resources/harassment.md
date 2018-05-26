@@ -24,4 +24,4 @@ No. A person does not need to be the direct target of the harassing statement to
 
 _What if someone harasses me?_
 
-Please see [The DSA's official resolution on harassment](https://tinyurl.com/dsa-harassment-resolution).  Boulder DSA has official Harassment Grievance Officers (HGOs) who may be [contacted privately over email](mailto:boulderdsa.hgo@gmail.com).
+Please see [the DSA's official resolution on harassment](https://tinyurl.com/dsa-harassment-resolution).  Boulder DSA has official Harassment Grievance Officers (HGOs) who may be [contacted privately over email](mailto:boulderdsa.hgo@gmail.com).

@@ -2,23 +2,31 @@
 title: Resources
 ---
 
-If you're attending one of our meetings, you should be aware of our [expectations for respectful discussion]({% link resources/discussion.md %}) and our [anti-harassment guidelines]({% link resources/harassment.md %}). (Also, see the [national resolution](https://docs.google.com/document/d/14PXU8_0eKmPG_8GSVVyHurorNcNPOQN_mq-mAdCOUao/edit) on harassment grievances.)
+## Readings and other organizations
 
+* What's socialism? [The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
+* [Democratic Socialists of America](http://www.dsausa.org)
+* Our neighbors, [Denver DSA](https://www.denverdsa.org)
+* Leftist news and discussion in [Jacobin Magazine](https://www.jacobinmag.com/)
 
-Some external resources we suggest you check out:
+## Chapter Information
 
-* We're a chapter of the national [Democratic Socialists of America](http://www.dsausa.org).
-* You can also check out what our neighboring chapter, the [Denver DSA](https://www.denverdsa.org) is doing.
-* Want an introduction to what socialism is all about? Check out [The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf).
-* For more leftist news and discussion, try reading [Jacobin magazine](https://www.jacobinmag.com/).
+At our meetings:
+
+* [Expectations for respectful discussion]({% link resources/discussion.md %})
+* [Anti-harassment guidelines]({% link resources/harassment.md %})
 
 As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
 * Co-Chairs: Meagan Arango and Austin Bennett
 * Communications Facilitator: Felicia Hamilton
 * Treasurer: Sam Zhang
-* Organizers: A.J. Nichols, and Jon Lamar
+* Organizers: A.J. Nichols and Jon Lamar
 
-_[Resource links TBD for Housing and M4All working groups.]_
+## Working group resources
+
+* The national [Medicare For All](https://medicareforall.dsausa.org) campaign
+* [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
+
 
 [email-officers]: mailto:boulderdsa@gmail.com
