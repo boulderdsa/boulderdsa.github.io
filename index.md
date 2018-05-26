@@ -1,9 +1,36 @@
 ---
 title: Boulder DSA
 display-title: "<img src=\"/images/logos/letterhead.png\" srcset=\"/images/logos/letterhead@2x.png 2x\" alt=\"Boulder Democratic Socialists of America\" class=\"img-responsive center-block\">"
+
+carousel:
+  - mayday-2017.jpg  - mayday-2018-2.jpg  - mayday-2018.jpg  - sign-making.jpg  - teachers-march.jpg
 ---
 
-![Boulder DSA marching on Pearl Street](/images/DSA_march.png){:.img-responsive .center-block width="100%"}
+<div id="main-carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+	{% for image in page.carousel %}
+    <li data-target="#main-carousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+    {% endfor %}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+	{% for image in page.carousel %}
+    <div class="item{% if forloop.first %} active{% endif %}">
+      <img src="/images/main-carousel/{{ image }}" alt="Pictures of the Boulder DSA">
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#main-carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#main-carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
 
 <div markdown="1" class="row">
 <div markdown="1" class="col-md-10 col-md-offset-1">
