@@ -69,7 +69,13 @@ apple-touch-icon-sizes: [57, 72, 76, 114, 120, 144, 152, 180]
 
 <div class="row">
   <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-    <h1 class=text-center>{{ page.title }}</h1>
+    <h1 class=text-center>
+      {%- if page.display-title -%}
+        {{ page.display-title }}
+      {%- else -%}
+        {{ page.title }}
+      {%- endif -%}
+    </h1>
     {{ content }}
   </div>
 </div>
