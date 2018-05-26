@@ -21,7 +21,7 @@ As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led
 * Co-Chairs: Meagan Arango and Austin Bennett
 * Communications Facilitator: Felicia Hamilton
 * Treasurer: Sam Zhang
-* Organizers: A.J. Nichols and Jon Lamar
+* Organizers: A.J. Nichols, Jon Lamar, and Zachary Micheli
 
 ## Working group resources
 
