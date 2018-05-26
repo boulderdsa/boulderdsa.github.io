@@ -71,8 +71,8 @@ defaults:
 navlinks:
 - title: About Us
   url: /about/
-- title: News
-  url: /news/
+#- title: News
+#  url: /news/
 - title: Resources
   url: /resources/
 - title: Calendar
