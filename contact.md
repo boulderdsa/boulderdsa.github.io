@@ -1,20 +1,18 @@
 ---
-title: Join the Boulder DSA
+title: Contact Us
 ---
 
 **Want to contact us?  Email the [Boulder DSA officers][email-officers].**
 
-We hold meetings on alternate Thursdays—check [the calendar]({% link calendar.md %}) for details.  Feel free to just show up to a meeting to see what we're about, contact us [by email][email-officers] if you'd like, or [join our email list][mailing-list-signup].  You can also start by getting in touch with a working group that interests you:
+
+If you'd like to get in touch with a working group that interests you:
 
 * [Housing Justice][email-housing]
 * [Medicare for All][email-m4a]
 * [Outreach][email-outreach]
 * [CU YDSA][email-ydsa]
 
-You're free to come by and check out our meetings, but if you'd like to officially join the Boulder chapter, you'll need to join and become a [dues paying member](https://act.dsausa.org/donate/membership/) of the national [DSA](http://www.dsausa.org) organization.
-
-
-If you have experienced discrimination, harassment or bullying from someone in the DSA, please contact our [Harassment Grievance Officers][email-hgo].
+Our meetings are held on [alternate Thursdays]({% link calendar.md %}) and are are open to the public if you'd like to talk with us in person.
 
 [email-officers]: mailto:boulderdsa@gmail.com
 [email-housing]: mailto:boulder.housing.justice@gmail.com

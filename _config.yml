@@ -79,8 +79,10 @@ navlinks:
   url: /calendar/
 - title: CU YDSA
   url: /ydsa/
-- title: Contact Us
+- title: Contact
   url: /contact/
+- title: Join Us
+  url: /join/
 
 socialmedia:
 - name: facebook
