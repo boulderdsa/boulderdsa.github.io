@@ -19,9 +19,9 @@ At our meetings:
 As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
 * Co-Chairs: Meagan Arango and Austin Bennett
-* Communications Facilitator: Felicia Hamilton
-* Treasurer: Sam Zhang
-* Organizers: A.J. Nichols, Jon Lamar, and Zachary Micheli
+* Communications Facilitator: Jacqui Richardson
+* Treasurer: Eric Coombs
+* Organizers: A.J. Nichols, Dylan Satterfield, Theo Asterion, and Jonathan Beall
 
 ## Working group resources
 
