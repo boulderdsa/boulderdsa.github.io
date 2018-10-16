@@ -27,6 +27,7 @@ As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led
 
 * The national [Medicare For All](https://medicareforall.dsausa.org) campaign
 * [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
+* Our 2018 [Voter's Guide]({% link resources/documents/BoulderDSA_2018VoterGuide.pdf %})
 
 
 [email-officers]: mailto:boulderdsa@gmail.com
