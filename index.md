@@ -40,7 +40,7 @@ Boulder Democratic Socialists of America is an activist organization which seeks
 
 </div>
 
-<div markdown="1" class="col-md-12">
+<div markdown="1" class="col-md-12" style="font-size: larger">
 
 **Last year, Benjamin Harvey froze to death on a park bench on Christmas after being denied a bed at the Boulder Shelter for the Homeless due to a year-long suspension.**
 
