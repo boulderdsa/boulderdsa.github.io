@@ -6,7 +6,7 @@ title: Join Boulder DSA
 
 * [Email us][email-welcome] and we'll help you join and get started with Boulder DSA.
 
-* Come by one of our meetings and check us out.  Meetings are held every other Thursday---check [the calendar]({% link calendar.md %}) for details.
+* Come by one of our meetings and check us out.  General meetings are held every other Saturday, rotating between Boulder, Lafayette, and Longmont---check [the calendar]({% link calendar.md %}) for details.
 
 * [Join our email list][mailing-list-signup] to stay updated on upcoming meetings and events.  
 
