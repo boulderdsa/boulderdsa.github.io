@@ -40,21 +40,6 @@ Boulder Democratic Socialists of America is an activist organization which seeks
 
 </div>
 
-<div markdown="1" class="col-md-12" style="font-size: larger">
-
-**Last year, Benjamin Harvey froze to death on a park bench on Christmas after being denied a bed at the Boulder Shelter for the Homeless due to a year-long suspension.**
-
-The Shelter continues to kick out residents or deny entrance for minor offenses. With winter here, and no substantive changes made since Benjamin's death, we are certain to lose even more friends to the cold.
-
-**We won't sit idly by as our neighbors freeze on our streets while beds sit empty in the homeless Shelter.**
-
-**[Sign our letter](https://actionnetwork.org/petitions/protect-boulders-homeless-from-unfair-treatment-at-the-shelter
-) to the Executive Director, Greg Harms, to demand justice for the poorest among us.**
-
-</div>
-
-<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/petition/protect-boulders-homeless-from-unfair-treatment-at-the-shelter?format=js&source=widget'></script><div class="col-md-12" id='can-petition-area-protect-boulders-homeless-from-unfair-treatment-at-the-shelter' style='width: 100%'><!-- this div is the target for our HTML insertion -->test</div>
-
 <div markdown="1" class="col-md-12 scroll">
 
 A call to action:
