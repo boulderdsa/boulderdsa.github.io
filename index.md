@@ -56,3 +56,7 @@ _—Boulder County Democratic Socialists of America_
 
 </div>
 </div>
+
+---
+
+Boulder County DSA's [statement on Venezuela]({% link statements/venezuela.md %}).
