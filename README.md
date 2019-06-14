@@ -1,6 +1,6 @@
 # BoulderDSA.org
 
-The source files for the [website of the Boulder DSA](https://boulderdsa.org).  Currently not yet live.
+The source files for the [website of the Boulder DSA](https://boulderdsa.org).
 
 Deployed to GitHub Pages using Jekyll, and styled using Bootstrap 3.
 
