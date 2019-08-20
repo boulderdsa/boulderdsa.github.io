@@ -6,7 +6,7 @@ title: Resources
 
 * What's socialism? [The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
 * [Democratic Socialists of America](http://www.dsausa.org)
-* Our neighbors, [Denver DSA](https://www.denverdsa.org)
+* Our neighbors, [Denver DSA](https://www.denverdsa.org) and [Fort Collins DSA](https://dsafc.org)
 * Leftist news and discussion in [Jacobin Magazine](https://www.jacobinmag.com/)
 
 ## Chapter Information
@@ -20,7 +20,7 @@ As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led
 
 * Co-Chairs: Jacquie Richardson and William McGrew
 * Communications Facilitator: David Jackson
-* Treasurer: Eric Coombs
+* Treasurer: Eric Coombs Esmail
 * Agitprop and Media Organizer: Dylan Satterfield
 * Left Unity Organizer: Katherine Breen
 
@@ -28,7 +28,8 @@ As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led
 
 * The national [Medicare For All](https://medicareforall.dsausa.org) campaign
 * [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
+{% comment %}
 * Our 2018 [Voter's Guide]({% link resources/documents/BoulderDSA_2018VoterGuide.pdf %})
-
+{% endcomment %}
 
 [email-officers]: mailto:boulderdsa@gmail.com
