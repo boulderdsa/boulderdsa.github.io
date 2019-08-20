@@ -12,7 +12,7 @@ If you'd like to get in touch with a working group that interests you:
 * [Outreach][email-outreach]
 * [CU YDSA][email-ydsa]
 
-Our general meetings are held on [alternate Saturdays]({% link calendar.md %}) and are are open to the public if you'd like to talk with us in person. Contact the [Accessibility Committee][email-accessibility] if you have any needs or questions around transport, location accessibility, or child care.
+Our general meetings are held on [alternate Saturdays]({% link calendar.md %}) and are open to the public if you'd like to talk with us in person. Contact the [Accessibility Committee][email-accessibility] if you have any needs or questions concerning transport, location accessibility, or child care.
 
 [email-officers]: mailto:boulderdsa@gmail.com
 [email-housing]: mailto:boulder.housing.justice@gmail.com
