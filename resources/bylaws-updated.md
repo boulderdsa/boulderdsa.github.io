@@ -52,7 +52,7 @@ The Local Chapter Steering Committee or 15% of the membership may call a Special
 
 ### Section 4. Quorum.
 
-A quorum of 10% of the members, or 66% of the average attendance of the last three Meetings, whichever is higher, (but not fewer than six persons) is required for Annual, Regular, or Special Meetings (each, when they meet quorum, is a Meeting) to transact business. Should a meeting fail to meet quorum in two consecutive occasions, the Steering Committee shall be permitted to modify this formulation, subject to a majority vote of the members present at the next planned Regular Meeting.
+A quorum of 10% of the members, or 66% of the average attendance of the last three Meetings, whichever is lower, (but not fewer than six persons) is required for Annual, Regular, or Special Meetings (each, when they meet quorum, is a Meeting) to transact business. Should a meeting fail to meet quorum in two consecutive occasions, the Steering Committee shall be permitted to modify this formulation, subject to a majority vote of the members present at the next planned Regular Meeting.
 
 ### Section 5. Accessibility.
 
@@ -68,7 +68,7 @@ The membership, meeting in an Annual, Regular or Special Meeting, shall constitu
 
 ### Section 1. Officers and Terms.
 
-The officers of the Local Chapter will be Co-Chairs, Communications Facilitator, Treasurer and a number of Organizers between 1 and 4. The term of office will be one year, and shall run from June 1st to May 31st. The period from elections through May 31st will be a training period for newly elected officers before they fully take on responsibilities. Officers are eligible for re-election for up to 2 consecutive terms unless no other candidate is nominated.
+The officers of the Local Chapter will be Co-Chairs, Communications Facilitator, Treasurer, and a number of Organizers between 1 and 4. Titles for individual organizer roles (such as Internal Organizer, Agitprop & Media Organizer, Left Unity Organizer, and Safety & Security Organizer) and duties can be defined and changed by a super-majority vote at a general meeting. The term of office will be one year, and shall run from June 1st to May 31st. The period from elections through May 31st will be a training period for newly elected officers before they fully take on responsibilities. Officers are eligible for re-election for up to 2 consecutive terms unless no other candidate is nominated.
 
 ### Section 2. Vacancies.
 
@@ -98,7 +98,7 @@ The Treasurer will be responsible for the funds and financial records of the Loc
 
 ### Section 6. Organizers.
 
-Organizers will be responsible for facilitating communication within the chapter, or between the chapter and local communities. Organizers will participate in Steering Committee decision-making, and are responsible for attending all relevant meetings and reading all relevant documents. Organizers are also tasked with carrying out the duties delegated to them by the Co-Chairs, Treasurer, and Communications Facilitator. They are beholden to representing the views of the membership that elected them as well as helping to advance the goals of the Local Chapter generally. If diversity requirements as enumerated in Article V Section 8 for the Steering Committee are not met after elections, one or two Organizer positions will be kept vacant until a member who fulfills one or both of the unfulfilled Article V Section 8 requirements is nominated for the position. A Special Election to confirm the nominee will be held immediately.
+Organizers will participate in Steering Committee decision-making and are responsible for attending all relevant meetings and reading all relevant documents. Organizers are also tasked with carrying out the duties defined for their specific organizer role, which will be determined before their election, and may later be amended, by a supermajority vote at a general meeting. Organizer roles may include such things as facilitating communication within the chapter, between the chapter and local communities, or ensuring the chapter’s safety. They are beholden to representing the views of the membership that elected them as well as helping to advance the goals of the Local Chapter generally. If diversity requirements as enumerated in Article V Section 8 for the Steering Committee are not met after elections, one or two Organizer positions will be kept vacant until a member who fulfills one or both of the unfulfilled Article V Section 8 requirements is nominated for the position. A Special Election to confirm the nominee will be held immediately.
 
 ### Section 7. Delegation of Duties.
 
