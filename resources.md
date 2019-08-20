@@ -16,7 +16,7 @@ At our meetings:
 * [Expectations for respectful discussion]({% link resources/discussion.md %})
 * [Anti-harassment guidelines]({% link resources/harassment.md %})
 
-As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
+As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
 * Co-Chairs: Jacquie Richardson and William McGrew
 * Communications Facilitator: David Jackson
