@@ -18,10 +18,11 @@ At our meetings:
 
 As specified in our [bylaws]({% link resources/bylaws.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
-* Co-Chairs: Meagan Arango and Austin Bennett
-* Communications Facilitator: Jacqui Richardson
+* Co-Chairs: Jacquie Richardson and William McGrew
+* Communications Facilitator: David Jackson
 * Treasurer: Eric Coombs
-* Organizers: A.J. Nichols, Dylan Satterfield, Theo Asterion, and Jonathan Beall
+* Agitprop and Media Organizer: Dylan Satterfield
+* Left Unity Organizer: Katherine Breen
 
 ## Working group resources
 
