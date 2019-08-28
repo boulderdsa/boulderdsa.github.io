@@ -36,5 +36,6 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 {% comment %}
 * Our 2018 [Voter's Guide]({% link resources/documents/BoulderDSA_2018VoterGuide.pdf %})
 {% endcomment %}
+* How to safely [film the cops]({% link resources/documents/FilmThePolice.pdf %})
 
 [email-officers]: mailto:boulderdsa@gmail.com
