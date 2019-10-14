@@ -8,7 +8,6 @@ title: Resources
 * [Democratic Socialists of America](http://www.dsausa.org)
 * Our neighbors, [Denver DSA](https://www.denverdsa.org) and [Fort Collins DSA](https://dsafc.org)
 * Leftist news and discussion in [Jacobin Magazine](https://www.jacobinmag.com/)
-* Boulder DSA's statement on the [invasion of Rojava]({% link statements/rojava.md})
 
 ## Chapter Information
 
