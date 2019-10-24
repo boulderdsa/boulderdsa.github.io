@@ -34,6 +34,7 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * The national [Medicare For All](https://medicareforall.dsausa.org) campaign
 * [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
 * How to safely [film the cops]({% link resources/documents/FilmThePolice.pdf %})
+* Our 2019 [Voter's Guide]({% link resources/documents/BoulderDSA_2019VoterGuide.pdf %})
 {% comment %}
 * Our 2018 [Voter's Guide]({% link resources/documents/BoulderDSA_2018VoterGuide.pdf %})
 {% endcomment %}
