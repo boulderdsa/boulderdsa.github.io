@@ -23,11 +23,10 @@ Chapter forms:
 
 As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
-* Co-Chairs: Jacquie Richardson and William McGrew
-* Communications Facilitator: David Jackson
-* Treasurer: Eric Coombs Esmail
+* Co-Chairs: Carl Perez
+* Communications Facilitator: Jacquie Richardson
+* Treasurer: Will McGrew
 * Agitprop and Media Organizer: Dylan Satterfield
-* Left Unity Organizer: Katherine Breen
 
 ## Working group resources
 
