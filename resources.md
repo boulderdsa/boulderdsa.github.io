@@ -20,6 +20,7 @@ Chapter forms:
 
 * [Encumbrance/reimbursement request form for approved expenses](https://docs.google.com/forms/d/14p6cRMIJeCveW2_ZV1dZTbRTjYxSEYj7Rs3s78gw7M4/viewform?edit_requested=true)
 * [Outreach event proposal](https://docs.google.com/forms/d/e/1FAIpQLScOL8GUx2dOxktaIcTykt3ZOyYGOS9c1OSmsaEYSHTeR0V1GA/viewform)
+* You can [donate](https://actionnetwork.org/fundraising/donation-to-boulder-dsa) to Boulder DSA to support our organizing
 
 As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
