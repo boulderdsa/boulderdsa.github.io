@@ -16,3 +16,5 @@ Our chapter in Boulder and Broomfield prioritizes the following issues:
 
 
 Boulder DSA employs many tactics, including legislative, protests, and direct community action. We don’t believe any one alone is sufficient for changing our society. If you want to fight back against rule by the rich and oppression and scapegoating of the vulnerable, [join us today](/contact/)!
+
+You can also visit [this page](https://actionnetwork.org/fundraising/donation-to-boulder-dsa) to donate to our ongoing organizing efforts!
