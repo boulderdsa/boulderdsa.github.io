@@ -66,3 +66,5 @@ _—Boulder County Democratic Socialists of America_
 Boulder County DSA's [statement on Venezuela]({% link statements/venezuela.md %}).
 
 Boulder County DSA's [statement on the Turkish invasion of Rojava]({% link statements/rojava.md %}).
+
+Boulder County DSA's [statement on the Cuban Protests]({% link statements/cubanprotests.md %}).
