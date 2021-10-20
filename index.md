@@ -63,4 +63,5 @@ _—Boulder County Democratic Socialists of America_
 
 ---
 Boulder County DSA's [2021 Voter Guide](https://www.boulderdsa.org/resources/documents/DSA_VG_SM_2021_pictures.pdf)
+
 Boulder County DSA's [statement on the Cuban Protests]({% link statements/cubanprotests.md %}).
