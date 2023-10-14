@@ -24,7 +24,7 @@ Chapter forms:
 
 As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
-* Co-Chairs: Carl Perez and William McGrew
+* Co-Chairs: Carl Perez and Will McGrew
 * Communications Facilitator: Troy
 * Treasurer: David Jackson
 * Agitprop and Media Organizer: Laney Sheffel
