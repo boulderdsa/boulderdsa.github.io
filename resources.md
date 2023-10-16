@@ -26,7 +26,6 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * Co-Chairs: Aidan Reed and Kristen Eller
 * Communications Facilitator: Dan Thomas
 * Treasurer: Joseph Stein
-* Agitprop and Media Organizer: Laney Sheffel
 
 ## Working group resources
 
