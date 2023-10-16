@@ -19,14 +19,13 @@ At our meetings:
 Chapter forms:
 
 * [Encumbrance/reimbursement request form for approved expenses](https://docs.google.com/forms/d/14p6cRMIJeCveW2_ZV1dZTbRTjYxSEYj7Rs3s78gw7M4/viewform?edit_requested=true)
-* [Outreach event proposal](https://docs.google.com/forms/d/e/1FAIpQLScOL8GUx2dOxktaIcTykt3ZOyYGOS9c1OSmsaEYSHTeR0V1GA/viewform)
 * You can [donate](https://actionnetwork.org/fundraising/donation-to-boulder-dsa) to Boulder DSA to support our organizing
 
 As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
-* Co-Chairs: Carl Perez and Will McGrew
-* Communications Facilitator: Troy
-* Treasurer: David Jackson
+* Co-Chairs: Aidan Reed and Kristen Eller
+* Communications Facilitator: Dan Thomas
+* Treasurer: Joseph Stein
 * Agitprop and Media Organizer: Laney Sheffel
 
 ## Working group resources
@@ -34,11 +33,12 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * The national [Medicare For All](https://medicareforall.dsausa.org) campaign
 * [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
 * How to safely [film the cops]({% link resources/documents/FilmThePolice.pdf %})
-* Our 2021 Election [Voter's Guide]({% link resources/documents/DSA_VG_SM_2021_pictures.pdf %})
+* Our 2023 Election [Voter's Guide]({% link resources/documents/DSAVoterGuide_2023.pdf %})
 {% comment %}
 * Our 2020 Democratic Primary [Voter's Guide]({% link resources/documents/BoulderDSA2020DemPrimaryVoterGuide.pdf %})
 * Our 2019 [Voter's Guide]({% link resources/documents/BoulderDSA_2019VoterGuide.pdf %})
 * Our 2018 [Voter's Guide]({% link resources/documents/BoulderDSA_2018VoterGuide.pdf %})
+* [Outreach event proposal](https://docs.google.com/forms/d/e/1FAIpQLScOL8GUx2dOxktaIcTykt3ZOyYGOS9c1OSmsaEYSHTeR0V1GA/viewform)
 {% endcomment %}
 
 [email-officers]: mailto:boulderdsa@gmail.com

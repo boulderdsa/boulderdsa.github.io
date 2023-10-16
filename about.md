@@ -6,7 +6,7 @@ title: About
 
 Boulder DSA is a local chapter of the [Democratic Socialists of America](http://www.dsausa.org), the largest socialist organization in the US. We are a “big tent” organization: our members come from many backgrounds with many points of view, but we all agree on one thing—unchecked capitalism has created a society that puts corporate profit above human rights, and we are committed to changing that through direct, grassroots action.
 
-Our chapter in Boulder and Broomfield prioritizes the following issues:
+Our chapter in Boulder County prioritizes the following issues:
 
 * Housing Justice: Members of our chapter successfully organized and passed the [No Eviction Without Representation](https://www.newrboulder.com/) ballot measure.
 *	Building Labor Power: Our members are active in local unions and our chapter coalitions to support local labor whenever possible.
