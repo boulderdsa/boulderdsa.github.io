@@ -33,7 +33,7 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * The national [Medicare For All](https://medicareforall.dsausa.org) campaign
 * [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
 * How to safely [film the cops]({% link resources/documents/FilmThePolice.pdf %})
-* Our 2023 Election [Voter's Guide]({% link resources/documents/DSAVoterGuide_2023_State&Municipal.pdf %})
+* Our 2023 Election [Voter's Guide]({% link resources/documents/DSAVoterGuide_2023.pdf %})
 {% comment %}
 * Our 2020 Democratic Primary [Voter's Guide]({% link resources/documents/BoulderDSA2020DemPrimaryVoterGuide.pdf %})
 * Our 2019 [Voter's Guide]({% link resources/documents/BoulderDSA_2019VoterGuide.pdf %})
