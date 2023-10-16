@@ -3,11 +3,10 @@ title: Boulder DSA
 display-title: "<img src=\"/images/logos/letterhead.png\" srcset=\"/images/logos/letterhead@2x.png 2x\" alt=\"Boulder Democratic Socialists of America\" class=\"img-responsive center-block\">"
 
 carousel:
+  - LaborDay2023.jpeg
   - mayday-2018-2.jpg
   - mayday-2017.jpg
   - mayday-2018.jpg
-  - sign-making.jpg
-  - teachers-march.jpg
 ---
 
 <div id="main-carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
