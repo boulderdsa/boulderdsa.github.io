@@ -4,7 +4,7 @@ display-title: "<img src=\"/images/logos/letterhead.png\" srcset=\"/images/logos
 
 carousel:
   - LaborDay2023.jpeg
-  - mayday-2018-2.jpg
+  - UAW Spooky Picket Line 2023.jpg
   - mayday-2017.jpg
   - mayday-2018.jpg
 ---
