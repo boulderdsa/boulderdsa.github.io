@@ -23,9 +23,9 @@ Chapter forms:
 
 As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
-* Co-Chairs: Aidan Reed and Kristen Eller
-* Communications Facilitator: Dan Thomas
-* Treasurer: Joseph Stein
+* Co-Chairs: William McGrew and Mary Doran
+* Communications Facilitator: Aidan Wall
+* Treasurer: Jacquie Richardson
 
 ## Working group resources
 
