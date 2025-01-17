@@ -40,4 +40,7 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * [Outreach event proposal](https://docs.google.com/forms/d/e/1FAIpQLScOL8GUx2dOxktaIcTykt3ZOyYGOS9c1OSmsaEYSHTeR0V1GA/viewform)
 {% endcomment %}
 
+## Educational Opportunities 
+* Come to one of our [Socialism 101](({% link resources/documents/Socialism101_2025_1_25.pdf %})) events
+
 [email-officers]: mailto:boulderdsa@gmail.com
