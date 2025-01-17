@@ -41,6 +41,6 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 {% endcomment %}
 
 ## Educational Opportunities 
-* Come to one of our [Socialism 101](({% link resources/documents/Socialism101_2025_1_25.pdf %})) events
+* Come to one of our [Socialism 101]({% link resources/documents/Socialism101_2025_1_25.pdf %}) events
 
 [email-officers]: mailto:boulderdsa@gmail.com
