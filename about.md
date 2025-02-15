@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 ---
 
 ![Signs made by Boulder DSA members](/images/mayday-signs.jpg){:.img-responsive .center-block width="100%"}
