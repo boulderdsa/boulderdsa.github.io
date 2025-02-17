@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 ---
 
 ![Signs made by Boulder DSA members](/images/mayday-signs.jpg){:.img-responsive .center-block width="100%"}
@@ -8,7 +8,7 @@ Boulder DSA is a local chapter of the [Democratic Socialists of America](http://
 
 Our chapter in Boulder County prioritizes the following issues:
 
-* Housing Justice: Members of our chapter successfully organized and passed the [No Eviction Without Representation](https://www.newrboulder.com/) ballot measure.
+* Housing Justice: Members of our chapter successfully organized and passed the No Eviction Without Representation ballot measure. If you need rental assistance please contact the committee or visit [the cities rental support page](https://bouldercolorado.gov/services/eviction-prevention-and-rental-assistance-services-program)
 *	Building Labor Power: Our members are active in local unions and our chapter coalitions to support local labor whenever possible.
 *	Political Education: We have a long-standing reading group that reads theory, history, science fiction, and everything in between.
 *	Creating a Left Coalition: We work with groups throughout Boulder and Broomfield County to create a broad coalition of left and left-leaning housing, mutual aid, immigrant rights, and anti-war organizations. 
