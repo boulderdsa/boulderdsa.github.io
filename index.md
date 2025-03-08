@@ -61,6 +61,4 @@ _—Boulder County Democratic Socialists of America_
 </div>
 
 ---
-Boulder County DSA's [2023 Voter Guide](https://www.boulderdsa.org/resources/documents/DSAVoterGuide_2023.pdf)
-
-[Guía Electoral del Condado de Boulder DSA](https://www.boulderdsa.org/resources/documents/DSAVoterGuide_2023_Spanish.pdf)
+Boulder County DSA's [2024 Voter's Guide]({% link resources/documents/Boulder_County_DSA_2024_General_Election_Voter_Guide_Final.pdf %})
