@@ -3,7 +3,7 @@ title: Boulder DSA
 display-title: "<img src=\"/images/logos/letterhead.png\" srcset=\"/images/logos/letterhead@2x.png 2x\" alt=\"Boulder Democratic Socialists of America\" class=\"img-responsive center-block\">"
 
 carousel:
-  - say_no_to_wage_cuts.webp
+  - say_no_to_wage_cuts.png 
   - mayday-2017.jpg
   - UAW Spooky Picket Line 2023.jpg
   - mayday-2018.jpg
@@ -19,10 +19,13 @@ carousel:
   </ol>
 
   <!-- Wrapper for slides -->
+  <!-- Lenin help me I hate this goddamn carousel, make sure your images are of fixed height -->
   <div class="carousel-inner">
 	{% for image in page.carousel %}
     <div class="item{% if forloop.first %} active{% endif %}">
-      <img src="/images/main-carousel/{{ image }}" alt="Pictures of the Boulder DSA">
+      <div class="container">
+        <img src="/images/main-carousel/{{ image }}" alt="Pictures of the Boulder DSA">
+      </div>
     </div>
     {% endfor %}
   </div>

@@ -16,3 +16,8 @@
   border-image: url('/images/scroll.png') 49% repeat;
 }
 
+.carousel-control.left,
+.carousel-control.right {
+  background: transparent;
+}
+
