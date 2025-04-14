@@ -77,16 +77,14 @@ navlinks:
   url: /resources/
 - title: Calendar
   url: /calendar/
-- title: CU YDSA
-  url: /ydsa/
-- title: Contact
-  url: /contact/
 - title: Help Getting Started
   url: /getting_started/
 - title: Join Us
   url: /join/
 - title: Donate
   url: /donate/
+- title: Contact
+  url: /contact/
 
 socialmedia:
 - name: facebook
