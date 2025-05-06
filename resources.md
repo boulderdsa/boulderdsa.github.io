@@ -23,9 +23,9 @@ Chapter forms:
 
 As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapter is led by the following elected officers, who can be contacted by [email][email-officers].
 
-* Co-Chairs: William McGrew and Mary Doran
-* Communications Facilitator: Aidan Wall
-* Treasurer: Jacquie Richardson
+* Co-Chairs: Aidan Wall and Mary Doran
+* Communications Facilitator: Will McCloskey
+* Treasurer: Jan
 
 ## Working group resources
 
