@@ -3,7 +3,8 @@ title: Boulder DSA
 display-title: "<img src=\"/images/logos/letterhead.png\" srcset=\"/images/logos/letterhead@2x.png 2x\" alt=\"Boulder Democratic Socialists of America\" class=\"img-responsive center-block\">"
 
 carousel:
-  - say_no_to_wage_cuts.png 
+  - LaborDay2025.jpg
+  - BoulderPride.jpg
   - mayday-2017.jpg
   - UAW Spooky Picket Line 2023.jpg
   - mayday-2018.jpg
