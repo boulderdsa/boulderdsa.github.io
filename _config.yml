@@ -51,7 +51,7 @@ plugins:
 defaults:
   - scope:
       path: "css"
-    values:  
+    values:
       layout: null
   - scope:
       path: ""
@@ -85,6 +85,8 @@ navlinks:
   url: /donate/
 - title: Contact
   url: /contact/
+- title: Working Groups
+  url: /working_groups/
 
 socialmedia:
 - name: facebook
