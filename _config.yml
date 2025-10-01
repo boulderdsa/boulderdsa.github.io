@@ -51,7 +51,7 @@ plugins:
 defaults:
   - scope:
       path: "css"
-    values:  
+    values:
       layout: null
   - scope:
       path: ""
@@ -79,6 +79,8 @@ navlinks:
   url: /calendar/
 - title: Help Getting Started
   url: /getting_started/
+- title: Working Groups
+  url: /working_groups/
 - title: Join Us
   url: /join/
 - title: Donate
