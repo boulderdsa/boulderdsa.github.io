@@ -14,20 +14,20 @@ carousel:
 <div id="main-carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-	{% for image in page.carousel %}
-    <li data-target="#main-carousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+    {% for image in page.carousel %}
+      <li data-target="#main-carousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
     {% endfor %}
   </ol>
 
   <!-- Wrapper for slides -->
   <!-- Lenin help me I hate this goddamn carousel, make sure your images are of fixed height -->
   <div class="carousel-inner">
-	{% for image in page.carousel %}
-    <div class="item{% if forloop.first %} active{% endif %}">
-      <div class="container">
-        <img src="/images/main-carousel/{{ image }}" alt="Pictures of the Boulder DSA">
+    {% for image in page.carousel %}
+      <div class="item{% if forloop.first %} active{% endif %}">
+        <div>
+          <img src="/images/main-carousel/{{ image }}" alt="Pictures of the Boulder DSA">
+        </div>
       </div>
-    </div>
     {% endfor %}
   </div>
 
@@ -53,7 +53,7 @@ Boulder Democratic Socialists of America is an activist organization which seeks
 A call to action:
 
 Are you angry about inequality and injustice in the US? Do you see the problems of racism, sexism, xenophobia and poverty getting worse rather than better? Are you finished with electing representatives that vote with their donors and not their constituents?
- 
+
 It’s time to radically re-define US democracy. Workers have a right to participate in the decisions of their employers. Residents of a community have the right to say whether oil companies can put wells next to their children’s schools. That the wealthiest country in the world can’t adequately feed, shelter, and medically treat all of its citizens is a travesty and embarrassment.
 
 With American life expectancy falling, the wealth gap growing, the public education system under siege, and a President who is the worst example of a racist, sexist, and incredibly incompetent Boss with no virtue but his Extreme Wealth—we are not waiting for someone to save us with promises of Hope and Change. This time, Change will come from below, and it will be overwhelming. Join us and fight. Join us and win.
