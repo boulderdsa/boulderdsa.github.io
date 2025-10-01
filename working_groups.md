@@ -34,7 +34,7 @@ The Healthcare Justice committee focuses on achieving the goal of securing healt
 * Attending meetings with other groups and organizations involved in the fight for universal healthcare to further coalition building and solidarity.
 
 ### When do they meet?
-* The HJ committee meets on the second Saturday of each month @ 9am (MST) over zoom.
+* The second Saturday of each month at 9am (MST) over zoom.
 
 
 ## Electoral
@@ -57,7 +57,7 @@ The Eco-Socialism committee is focused on education/outreach regarding a sociali
 * Organizing in response to local projects and legislation that poses a threat to our environment.
 
 ### When do they meet?
-* Currently, this group does not hold recurring meetings as it is less established as other working groups. If you are interested in furthering the goals of eco-socialism, consider getting involved!
+* The second Tuesday of each month at 6PM (MST) over zoom
 
 
 ## Growth and Dev
@@ -67,7 +67,7 @@ The Growth and Development committee is focused on organizing and education to i
 * Development of new member resources that are easy to follow and approachable to expedite new members getting involved in the working groups that they are most interested in helping.
 
 ### When do they meet?
-* Currently this group does not have recurring meetings, this is a goal as more members come on board. If you are interested, this initiative would love to have your help!
+* The last Thursday of every month at 8PM (MST) over zoom.
 
 
 ## Comms
@@ -80,5 +80,5 @@ The communications committee is focused on managing the public facing media for 
 * Writing op-ed pieces and media statements
 
 ### When do they meet?
-* Currently, this group has no recurring meetings as it is not completely established yet. If you are interested, this initiative would love to have your help getting started!
+* TBD
 

@@ -79,14 +79,14 @@ navlinks:
   url: /calendar/
 - title: Help Getting Started
   url: /getting_started/
+- title: Working Groups
+  url: /working_groups/
 - title: Join Us
   url: /join/
 - title: Donate
   url: /donate/
 - title: Contact
   url: /contact/
-- title: Working Groups
-  url: /working_groups/
 
 socialmedia:
 - name: facebook
