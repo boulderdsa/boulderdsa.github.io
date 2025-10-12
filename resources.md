@@ -32,7 +32,7 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * The national [Medicare For All](https://medicareforall.dsausa.org) campaign
 * [Eviction Aid Resources]({% link resources/documents/Eviction Aid Sheet.pdf %})
 * How to safely [film the cops]({% link resources/documents/FilmThePolice.pdf %})
-* Our 2024 Election [Voter's Guide]({% link resources/documents/Boulder_County_DSA_2024_General_Election_Voter_Guide_Final.pdf %})
+* Our 2025 Election [Voter's Guide]({% link resources/documents/BoulderCountyDSA2025VoterGuide_Final.pdf %})
 
 
 ## Educational Opportunities 
