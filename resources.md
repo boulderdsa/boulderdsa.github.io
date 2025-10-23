@@ -34,7 +34,7 @@ As specified in our [bylaws]({% link resources/bylaws-updated.md %}), the chapte
 * How to safely [film the cops]({% link resources/documents/FilmThePolice.pdf %})
 * Our 2025 Election Voter Guide:
   * [English]({% link resources/documents/BoulderCountyDSA2025VoterGuide_Final.pdf %})
-  * [español]({% link resources/documents/BoulderCountyDSA2025VoterGuideEspanol_Final.pdf %})
+  * [Español]({% link resources/documents/BoulderCountyDSA2025VoterGuideEspanol_Final.pdf %})
 
 
 ## Educational Opportunities

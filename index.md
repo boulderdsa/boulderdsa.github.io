@@ -68,4 +68,4 @@ _—Boulder County Democratic Socialists of America_
 ---
 Boulder County DSA's 2025 Voter Guide:
 - [English]({% link resources/documents/BoulderCountyDSA2025VoterGuide_Final.pdf %})
-- [español]({% link resources/documents/BoulderCountyDSA2025VoterGuideEspanol_Final.pdf %})
+- [Español]({% link resources/documents/BoulderCountyDSA2025VoterGuideEspanol_Final.pdf %})
